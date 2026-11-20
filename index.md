@@ -19,7 +19,7 @@ The app saves your game worlds, save slots, records, achievements and settings i
 
 ## In-app purchases
 
-The game can be played without paying. Optional purchases (the Full Edition, extra scenarios and cosmetics) are handled by Google Play or the Apple App Store. We never see your name, email address or payment details.
+The game can be played without paying. Optional purchases (the Full Edition and extra scenarios) are handled by Google Play or the Apple App Store. We never see your name, email address or payment details.
 
 To check and restore purchases, the app uses **RevenueCat** (revenuecat.com), a purchase-verification service. When the app starts, and when you make or restore a purchase, the following are sent to RevenueCat over an encrypted connection:
 
